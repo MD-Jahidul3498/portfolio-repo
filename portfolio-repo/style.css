@@ -1,0 +1,27 @@
+ *{
+    margin: 0;
+    }
+    nav{
+      display: flex;
+      justify-content:space-between;
+      margin: 50px 200px;
+
+    }
+    nav ul{
+      display: flex; 
+      margin-left: 50px;
+      
+      
+    }
+ .nav-1{
+    font-weight: 800;
+    font-size: 45px;
+ }
+ .nav-2{
+   color: rgb(255, 166, 0);
+ }
+ nav li{
+   /* display: none; */
+   list-style: none;
+   margin-left: 50px;
+ }
